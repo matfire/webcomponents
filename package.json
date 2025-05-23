@@ -1,0 +1,30 @@
+{
+	"name": "@matfire/webcomponents",
+	"version": "0.0.1",
+	"description": "a list of web components I use on my website",
+	"main": "index.js",
+	"module": "dist/bundle.js",
+	"scripts": {
+		"build": "rolldown -c",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"webcomponents"
+	],
+	"files": [
+		"dist"
+	],
+	"type": "module",
+	"author": "Matteo Gassend",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/matfire/webcomponents"
+	},
+	"bugs": {
+		"url": "https://github.com/matfire/webcomponents"
+	},
+	"devDependencies": {
+		"rolldown": "^1.0.0-beta.9"
+	}
+}
