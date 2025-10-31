@@ -1,6 +1,6 @@
 {
 	"name": "@matfire/webcomponents",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "a list of web components I use on my website",
 	"main": "index.js",
 	"module": "dist/bundle.js",
